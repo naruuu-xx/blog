@@ -7,7 +7,7 @@ titleTemplate: 厦门工学院计算机协会
 hero:
   name: 厦工计协
   text: 厦门工学院计算机协会
-  tagline: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  tagline: 1234567
   image:
     src: '/xit.png'
     alt: 厦工计协

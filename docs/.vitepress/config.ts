@@ -34,6 +34,10 @@ export default {
               link: '/blog/first',
             },
             {
+              text: '第二篇博客',
+              link: '/blog/second'
+            },
+            {
               text: '技术分享',
               link: '/blog/share',
             },
