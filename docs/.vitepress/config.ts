@@ -41,6 +41,10 @@ export default {
               text: '技术分享',
               link: '/blog/share',
             },
+            {
+              text: 'CS自学指南',
+              link: '/blog/csdiy',
+            },
           ],
         },
         {
